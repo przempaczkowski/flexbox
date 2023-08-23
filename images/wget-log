@@ -1,0 +1,6 @@
+--2023-08-23 14:12:13--  https://media.discordapp.net/attachments/894728146694316055/1143613634954666164/tempFileForShare_20230822-203207.png?width=374
+Resolving media.discordapp.net (media.discordapp.net)... 162.159.133.232, 162.159.129.232, 162.159.130.232, ...
+Connecting to media.discordapp.net (media.discordapp.net)|162.159.133.232|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2023-08-23 14:12:13 ERROR 400: Bad Request.
+
